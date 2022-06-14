@@ -13,5 +13,6 @@ For this project, we have three parts :
 - **Regression Model** : 3rd and final notebook wich contains a regression model
 
 ## Launch
-To launch a notebook, you can use the following command if you use **Jupyter**__
+To launch a notebook, you can use the following command if you use **Jupyter**
+
 ```jupyter-notebook notebook.ipynb```
